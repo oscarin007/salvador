@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
  template: `
-   <h1>PRIMER PROGRAMA</h1>
+   <h1>OSCAR</h1>
    <app-video></app-video>
    <div class="row">
      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-5">
